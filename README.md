@@ -1,4 +1,4 @@
-# Topic modeling and sentiment analysis on comments on a popular YouTube video. 
+# Using NLP to analyze comments on a controversial YouTube video.  
 
 ## Motivation
 A few years ago, I created a video on how I unfollowed my inspiration, a woman named Erin on Demand. In the video, I share how it became easy for me to compare myself to her and instead of seeing her as inspiration, I judged myself as someone with bad work ethic who couldn’t nearly catch up with the times. I created this video to share that sometimes on our quest to find role models or people we look up to, our inspiration can easily be turned into self-degredation if we are not in the right state of mind. And I implored people to feel free to unfollow their inspirations if they felt moved to.
